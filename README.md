@@ -1,4 +1,4 @@
-# PhoenixTrello
+# Phoenix task manager
 
 To start your Phoenix app:
 
