@@ -17,3 +17,6 @@ config :phoenix_trello, PhoenixTrello.Repo,
   database: "phoenix_trello_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
+
+config :comeonin, :bcrypt_log_rounds, 4
+config :comeonin, :pbkdf2_rounds, 1
